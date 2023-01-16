@@ -19,35 +19,35 @@
 	  {
 	   "DownThreshold": 0,
 	   "UpThreshold": 55,
-	   "FanSpeed": 30.0
+	   "FanSpeed": 0.0
 	  },
 	  {
-	   "DownThreshold": 45,
-	   "UpThreshold": 60,
-	   "FanSpeed": 62.0
-	  },
-	  {
-	   "DownThreshold": 47,
+	   "DownThreshold": 56,
 	   "UpThreshold": 65,
-	   "FanSpeed": 77.0
+	   "FanSpeed": 25.0
 	  },
 	  {
-	   "DownThreshold": 52,
+	   "DownThreshold": 66,
+	   "UpThreshold": 72,
+	   "FanSpeed": 35.0
+	  },
+	  {
+	   "DownThreshold": 73,
 	   "UpThreshold": 80,
-	   "FanSpeed": 87.0
+	   "FanSpeed": 50.0
 	  },
 	  {
-	   "DownThreshold": 60,
-	   "UpThreshold": 88,
-	   "FanSpeed": 93.0
+	   "DownThreshold": 81,
+	   "UpThreshold": 86,
+	   "FanSpeed": 70.0
 	  },
 	  {
-	   "DownThreshold": 75,
+	   "DownThreshold": 87,
 	   "UpThreshold": 90,
-	   "FanSpeed": 97.0
+	   "FanSpeed": 85.0
 	  },
 	  {
-	   "DownThreshold": 85,
+	   "DownThreshold": 91,
 	   "UpThreshold": 95,
 	   "FanSpeed": 100.0
 	  }
